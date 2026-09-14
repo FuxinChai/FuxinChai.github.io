@@ -1,0 +1,33 @@
+---
+title: "Fuxin Chai"
+image: "photo.jpg"
+links:
+  - label: GitHub
+    url: "https://github.com/FuxinChai"
+  - label: Email
+    url: "fchai1@jh.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Hi, I'm Fuxin Chai. I am currently an ScM student in Biostatistics at Johns Hopkins University. I am interested in both statistics and biology, and I am currently exploring different research areas to find what I would like to focus on in the future.
+
+One reason I am particularly interested in the connection between these fields is that many cellular processes depend on molecular concentrations, diffusion, and stochastic interactions. I believe statistical methods can provide a useful way to understand the variability and complexity of biological systems.
+
+## Education
+
+**Johns Hopkins University**  
+ScM in Biostatistics | September 2026 – Present
+
+**Michigan State University**  
+Bachelor's Degree in Statistics | September 2022 - May 2026
+
+## Research Interests
+
+My current research interests include genomics, genetics, neuroimaging, computational biology, and systems biology. I am currently exploring these areas and hope to develop a clearer research focus as I gain more experience..
+
+## Goals for This Course
+
+My goal for this course is to review programming methods that I have learned and to develop new skills. In particular, I hope to learn more about Positron and to learn how to create and publish websites as part of a reproducible statistical computing workflow.
